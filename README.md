@@ -21,7 +21,7 @@ Our team, **"The ImagineX"** consists of:
 
 ## Our Task
 
-![Maze Navigation Video](Media/Video1.mp4)
+![Maze Navigation Video]([Media/Video1.mp4](https://github.com/user-attachments/assets/63609993-fdca-4477-8805-6e989ca30ea1))
 
 
 For detailed information about our task, please refer to the attached PDF document.
