@@ -2,6 +2,13 @@
 
 ROBOFEST is an annual robotics competition organized by the Sri Lanka Institute of Information Technology (SLIIT), where participants demonstrate their skills in designing and building robots. The 2024 university category features an exciting Micromouse challenge, where fully autonomous robots navigate mazes, showcasing innovation and technical prowess.
 
+## Our Robot
+
+![Alt text](Media/robot.jpg)
+
+[![Maze Navigation Video](Media/Video1.mp4)](https://github.com/user-attachments/assets/22a01859-a595-46c0-b6c5-1381d1217ea8
+)
+
 ## Our Team
 
 Our team, **"The ImagineX"** consists of:
@@ -15,13 +22,8 @@ Our team, **"The ImagineX"** consists of:
 
 ![Alt text](Media/Team.jpg)
 
-## Our Robot
-
-![Alt text](Media/robot.jpg)
-
 ## Our Task
 
-![Maze Navigation Video]([Media/Video1.mp4](https://github.com/user-attachments/assets/63609993-fdca-4477-8805-6e989ca30ea1))
 
 
 For detailed information about our task, please refer to the attached PDF document.
